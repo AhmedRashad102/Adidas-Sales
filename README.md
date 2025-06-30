@@ -1,6 +1,7 @@
 # Adidas-Sales
 <h2>Overview</h2>
-<p>I'm excited to share a recent data analysis project where I built a Power BI dashboard to visualize and explore Adidas sales performance.</p>
+<p>To analyze Adidas sales data and deliver actionable insights through an interactive Power BI dashboard that supports better business decisions related to product performance, regional trends, and customer behavior.
+.</p>
 
 <h2>📊 Key Dashboard Features:</h2>
 
